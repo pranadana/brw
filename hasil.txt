@@ -9,3 +9,8 @@ nama : wahyu satriawan
 TTL : kembang kuning 14 oktober 2002
 Asal Daerah : lombok timur
 No. HP : 081999032828
+
+nama : satria
+TTL : kembang kuning 14 oktober 2002
+Asal Daerah : lombok timur
+No. HP : 081999032828
