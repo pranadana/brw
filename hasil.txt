@@ -14,3 +14,9 @@ nama : satria
 TTL : kembang kuning 14 oktober 2002
 Asal Daerah : lombok timur
 No. HP : 081999032828
+
+
+nama : Rayhan Afit Wijaya
+TTL : Pekanbaru, 09-05-2003
+Asal Daerah : Pekanbaru
+No. HP : 083186255154
